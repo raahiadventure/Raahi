@@ -791,9 +791,19 @@ button {
     padding: 20px 30px;
     display: flex;
     margin-top: 90px !important;
+    margin-bottom: -45px;
     float: left;
 }
-
+.newsletter_box1 {
+    width: 100%;
+    
+    border-radius: 25px;
+    padding: 20px 30px;
+    display: flex;
+    margin-top: 90px !important;
+    margin-bottom: -45px;
+    float: left;
+}
 .let_text {
     width: 100%;
     font-size: 40px;
@@ -812,10 +822,22 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #030203;
     text-align: center;
     padding: 10px 0px;
     border-radius: 30px;
+    font-weight: bold;
+}
+
+.getquote_btt a {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 300px;
     font-weight: bold;
 }
 
