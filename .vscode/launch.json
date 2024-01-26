@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open splash.html",
-            "file": "c:\\Users\\yash\\OneDrive\\Desktop\\raahi\\raahii\\splash.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\yash\\OneDrive\\Desktop\\raahi\\raahii\\index.html"
         }
     ]
 }
