@@ -990,8 +990,21 @@ button {
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+
 }
+.btnbb{
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+    transition: transform 0.7s ease-in-out; 
+}
+
+.btnbb:hover {
+    transform: rotate(360deg);
+  }
 
 .call_text {
     width: 100%;
@@ -1001,6 +1014,8 @@ button {
     padding-top: 10px;
 }
 
+
+
 .call_text a {
     color: #ffffff;
 }
@@ -1008,6 +1023,8 @@ button {
 .call_text a:hover {
     color: #e27141;
 }
+
+
 
 
 /* footer section end */
@@ -1022,6 +1039,13 @@ button {
 .copyright_text {
     width: 100%;
     float: left;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 0px;
+}
+.copyright_textt {
+    
     color: #ffffff;
     text-align: center;
     font-size: 16px;
